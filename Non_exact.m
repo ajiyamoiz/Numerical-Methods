@@ -1,4 +1,3 @@
-%% By Hassaan Moiz Khawaja
 clear all
 clc
 
