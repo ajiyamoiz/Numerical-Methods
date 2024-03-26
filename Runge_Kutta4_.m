@@ -1,5 +1,3 @@
-%NC Muhammad Muaz Khalid
-%Pak # 182213
 f1=@(x,y,z) z; %Here we input our function such that dy/dx = f(x,y)
 f2=@(x,y,z)(1/3)*(exp(-x)-2*z-5*y); %Here we input our function such that dy/dx = f(x,y)
 x0=input('\n Initial value of x: '); %initial given value x0
