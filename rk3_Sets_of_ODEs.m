@@ -1,5 +1,3 @@
-%NC Muhammad Muaz Khalid
-%Pak # 182213
 f1=@(x,y,z)(-y+z)*exp(1-x)+0.5;
 f2=@(x,y,z)y-z^2; 
 x0=input('\n Initial value of x: ');
