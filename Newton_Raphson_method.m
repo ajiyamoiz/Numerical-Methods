@@ -1,5 +1,3 @@
-%N/C Muhammad Muaz Khalid
-%Pak # 182213
 y=@(x) x^2 -4;   %Our given equation
 z=@(x) 2*x;     %Derivative of given equation
 x0=input('Enter the value of initial guess for root: ');
