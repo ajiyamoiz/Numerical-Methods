@@ -1,5 +1,3 @@
-%NC Muhammad Muaz Khalid
-%Pak # 182213
 f=@(x,y)2*y; %Here we input our function such that dy/dx = f(x,y)
 z=@(x) exp(2*x); %Exact solution
 x0=input('\n Initial value of x: '); %initial given value x0
