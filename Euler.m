@@ -1,5 +1,3 @@
-%NC Muhammad Muaz Khalid
-%Pak # 182213
 clear all
 clc
 f=@(x,y)((1/3)*sin(x))-((5/3)*y^2); 
