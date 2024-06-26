@@ -1,3 +1,3 @@
 # Numerical-Methods
 
-Math-352 Numerical Methods Course Assignments
+Math-352 Numerical Methods course assignments
